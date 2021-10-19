@@ -28,3 +28,9 @@ npm start
 Now proceed to the status page to run the full suite of integration tests and get your validation code.
 
 After passing the relevant unit tests, what is the validation code for Error Handling?
+
+
+<details> 
+  <summary>After passing the relevant tests, what is the validation code for Connection?</summary>
+   Answer: 5ae9b76a703c7c603202ef22
+</details>
