@@ -24,3 +24,8 @@ Once you have modified the connection string, stop and restart the application.
 Now proceed to the status page to run the full suite of integration tests and get your validation code.
 
 What is the validation code for Principle of Least Privilege?
+
+<details> 
+  <summary>After passing the relevant tests, what is the validation code for Connection?</summary>
+   Answer: 5b61be29094dbae03bf30616
+</details>
