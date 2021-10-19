@@ -30,3 +30,8 @@ npm start
 Now proceed to the status page to run the full suite of integration tests and get your validation code.
 
 After passing the relevant tests, what is the validation code for Timeouts?
+
+<details> 
+  <summary>After passing the relevant tests, what is the validation code for Connection?</summary>
+   Answer: 5addf035498efdeb55e90b01
+</details>
