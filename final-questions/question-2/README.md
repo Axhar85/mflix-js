@@ -35,3 +35,12 @@ Should be updated to look like this:
   needs_to_update: true
 }
 Which of the following update statements will correctly perform this update?
+
+
+
+<details> 
+  <summary>Correct Answer</summary>
+   Answer: phones.updateMany( { software_version: { "$lt": 4.0 } },
+                       { "$set": { needs_to_update: true } } )
+</details>
+
