@@ -11,3 +11,8 @@ Before returning an acknowledgement back to the client, the replica set waits.
 When the write has been applied by the nodes marked in stripes, it returns an acknowledgement back to the client.
 
 What Write Concern was used in this operation?
+
+<details> 
+  <summary>Correct Answer</summary>
+   Answer = w: majority
+</details>
