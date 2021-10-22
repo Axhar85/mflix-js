@@ -10,3 +10,7 @@ Assume that none of the connection settings have been changed, and that the clie
 
 After 30 seconds, the client still cannot connect to a new primary. Which of the following errors will be thrown by the Node.js driver, and how should it be handled?
 
+<details> 
+  <summary>Correct Answer</summary>
+   Answer : a Timeout error, resolved by wrapping the call in a try/catch block
+</details>
