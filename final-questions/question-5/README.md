@@ -18,3 +18,12 @@ const bulkWriteResponse = employees.bulkWrite(baseballPlayers)
 Assume the employees collection is empty, and that there were no network errors in the execution of the bulk write.
 
 Which of the insert operations in requests will succeed?
+
+<details> 
+  <summary>Correct Answer</summary>
+   Answer 1: Insert #1.
+
+   Answer 2: Insert #2.
+
+   nswer 3: Insert #3.
+</details>
