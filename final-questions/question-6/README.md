@@ -4,9 +4,10 @@ Final: Question 6
 Problem:
 
 Suppose a client application is sending writes to a replica set with three nodes, but the primary node stops responding:
-<img src= "src\public\q6.png" alt =" image6">
 
-C:\Users\azhar\Documents\mongodb\mflix-js\
+<img src= "public\q6.png" alt =" image6">
+
+
 
 https://s3.amazonaws.com/edu-static.mongodb.com/lessons/M220/notebook_assets/replica_set_primary_down.png
 Assume that none of the connection settings have been changed, and that the client is only sending insert statements with write concern w: 1 to the server.
